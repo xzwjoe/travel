@@ -20,6 +20,7 @@
   - [2025/1/6 Milan Italy](#202516-milan-italy)
   - [2025/1/7 Milan Italy](#202517-milan-italy)
   - [2025/1/8 Milan Italy](#202518-milan-italy)
+- [TODO](#todo)
 
 # Italy
 
@@ -47,7 +48,7 @@
 
 ## 2024/12/24 Firenze, Milan Italy
 - Train
-  - firenze santa maria novella → milan central station
+  - Firenze santa maria novella → Milan central station
   - **TODO** ITALO 18:25 - 20:20 or 19:25 - 21:20 18EUR
 - Spot
   - **[√]乌菲兹美术馆（8:30-8:45）**
@@ -167,3 +168,10 @@
 ---
 [Hotel詳細](./hotel_list.md)  
 [Flight詳細](./flight_list.md)  
+
+# TODO
+- ITALO
+  - [ ] Milan central station → Firenze santa maria novella 10:40 - 12:35
+  - [ ] Firenze santa maria novella → Milan central station 18:25 - 20:20 or 19:25 - 21:20
+  - [ ] 卑尔根 峡湾
+  - [ ] 圣家堂?
