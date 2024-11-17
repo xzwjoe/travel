@@ -42,6 +42,7 @@
 - Memo
   - bus: 30分/1回 10EUR 75分to central
     - station Autostradale 143
+      - <https://autostradale.it/en-GB/bus-stop-timetable>
     - <https://www.malpensashuttle.it/en/index.html>
 
 ## 2024/12/24 Firenze, Milan Italy
@@ -124,7 +125,7 @@
 
 ## 2025/1/2 Reykjavik Iceland
 - Spot
-  - 冰岛团8:30~9:00集合
+  - **冰岛团8:30~9:00集合**
     - <https://www.tripadvisor.jp/AttractionProductReview-g189970-d12924614-3_Day_Golden_Circle_Ice_Cave_Glacier_Lagoon_Waterfalls_Tour-Reykjavik_Capital_Regi.html>
     - 只能带背包，箱子需寄存。
       - <https://www.luggagelockers.is/locations.html>
@@ -135,6 +136,9 @@
 
 ## 2025/1/3 Reykjavik, Iceland
 ## 2025/1/4 Reykjavik, Iceland
+- Hotel
+  - Hotel Reykjavik Centrum
+
 ## 2025/1/5 Reykjavik Iceland, Copenhagen 
 - Flight
   - 11:50 Reykjavik KEF SK4788 → Oslo Gardermoen 15:30
@@ -161,5 +165,5 @@
   - 13:05 ZURICH LX160 → NARITA(T1) 1/9 10:10
 
 ---
-[Hotel詳細](./hotel_list.md)
-[Flight詳細](./flight_list.md)
+[Hotel詳細](./hotel_list.md)  
+[Flight詳細](./flight_list.md)  
