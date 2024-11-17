@@ -1,4 +1,27 @@
-# Trip
+- [Italy](#italy)
+  - [2024/12/22 Milan Italy](#20241222-milan-italy)
+  - [2024/12/23 Milan, Firenze Italy](#20241223-milan-firenze-italy)
+  - [2024/12/24 Firenze, Milan Italy](#20241224-firenze-milan-italy)
+- [Norway](#norway)
+  - [2024/12/25 Tromso Norway](#20241225-tromso-norway)
+  - [2024/12/26 Tromso Norway](#20241226-tromso-norway)
+  - [2024/12/27 Tromso, Bergen Norway](#20241227-tromso-bergen-norway)
+  - [2024/12/28 Bergen Norway](#20241228-bergen-norway)
+  - [2024/12/29 Bergen Norway](#20241229-bergen-norway)
+- [Iceland](#iceland)
+  - [2024/12/30 Reykjavik Iceland](#20241230-reykjavik-iceland)
+  - [2024/12/31 Reykjavik Iceland](#20241231-reykjavik-iceland)
+  - [2025/1/1 Reykjavik Iceland](#202511-reykjavik-iceland)
+  - [2025/1/2 Reykjavik Iceland](#202512-reykjavik-iceland)
+  - [2025/1/3 Reykjavik, Iceland](#202513-reykjavik-iceland)
+  - [2025/1/4 Reykjavik, Iceland](#202514-reykjavik-iceland)
+  - [2025/1/5 Reykjavik Iceland, Copenhagen](#202515-reykjavik-iceland-copenhagen)
+- [Italy2](#italy2)
+  - [2025/1/6 Milan Italy](#202516-milan-italy)
+  - [2025/1/7 Milan Italy](#202517-milan-italy)
+  - [2025/1/8 Milan Italy](#202518-milan-italy)
+
+# Italy
 
 ## 2024/12/22 Milan Italy
 - Flight
@@ -33,7 +56,9 @@
 - Memo
   - 18点回米兰机场。22点到入住酒店。
 
-## 2024/12/24 Tromso Norway
+# Norway
+
+## 2024/12/25 Tromso Norway
 - Flight
   - 8:30 Malpensa (T2) EJU3925 → Tromso/Langes 12:35
 - Spot
@@ -77,6 +102,8 @@
 - Hotel
   - Magic Hotel & Apartments Kløverhuset
 
+# Iceland
+
 ## 2024/12/30 Reykjavik Iceland
 - Flight
   - 8:30 Bergen Airport,Flesland SK248 → Oslo 09:25
@@ -114,24 +141,25 @@
   - 16:10 Oslo Gardermoen SK 459 - Copenhagen Kastrup 17:25
 - Hotel
   - Clarion Hotel Copenhagen Airport
-  
-## 2025/1/6
+
+# Italy2
+## 2025/1/6 Milan Italy
 - Flight
   - 10:20 CPH-KASTRUP AIRPORT (T2) U23924 → MXP-MALPENSA AIRPORT (T2) 12:35
 - Hotel
   - Moxy Milan Malpensa Airport
   
-## 2025/1/7
+## 2025/1/7 Milan Italy
 - Spot
   - **圣家堂?**
 - Hotel
   - Moxy Milan Malpensa Airport
 
-## 2025/1/8
+## 2025/1/8 Milan Italy
 - Flight
   - 09:50 MILAN(MXP T1) LX1613 → ZURICH 10:55
   - 13:05 ZURICH LX160 → NARITA(T1) 1/9 10:10
 
-
+---
 [Hotel詳細](./hotel_list.md)
 [Flight詳細](./flight_list.md)
