@@ -12,7 +12,7 @@
   - Milan central station → Firenze santa maria novella
   - **TODO** ITALO 10:40 - 12:35 65EUR
 - Spot
-  - <font color="Red">[√]圣母百花大教堂(14:15-15:00)</font>
+  - <span style="color: red; ">[√]圣母百花大教堂(14:15-15:00)</span>
   - 老桥，米开朗基罗广场(落日)
 - Hotel
   - Grand Hotel Baglioni
@@ -26,7 +26,7 @@
   - firenze santa maria novella → milan central station
   - **TODO** ITALO 18:25 - 20:20 or 19:25 - 21:20 18EUR
 - Spot
-  - <font color="Red">√乌菲兹美术馆（8:30-8:45）</font>
+  - <span style="color: red; ">√乌菲兹美术馆（8:30-8:45）</span>
   - 领主广场，旧宫，学院美术馆（14-17）
 - Hotel
   - Moxy Milan Malpensa Airport
@@ -45,7 +45,7 @@
 - Spot
   - 最北麦当劳?
     - Address: **#TODO**
-  - <font color="Red">二哈12:15~ 7時間</font>
+  - <span style="color: red; ">二哈12:15~ 7時間</span>
     - 集合：Samuel Arnesens gate 5, 9008 Tromsø, Norway
     - Tromsø Havn Prostnesetのメインエントランスホール内
     - <https://www.google.com/maps/dir//69.64723,18.959833/@69.6471523,18.7950324,11z?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D>
@@ -56,7 +56,7 @@
 - Flight
   - 20:00 TOS WF629 → BGO 22:05
 - Spot
-  - <font color="Red">观鲸8:15~ 8時間</font>
+  - <span style="color: red; ">观鲸8:15~ 8時間</span>
     - Strandgata 5, 9008 Tromsø, Norway
     - トロムソの市内中心部にあるネルストランダ ショッピング センターの裏手にある港にある双胴船 MS リゲルドロンニンゲンに向かいます。
     - <https://www.google.com/maps?daddr=69.64571,18.952862>
@@ -131,4 +131,7 @@
 - Flight
   - 09:50 MILAN(MXP T1) LX1613 → ZURICH 10:55
   - 13:05 ZURICH LX160 → NARITA(T1) 1/9 10:10
-  
+
+
+[Hotel詳細](./hotel_list.md)
+[Flight詳細](./flight_list.md)
