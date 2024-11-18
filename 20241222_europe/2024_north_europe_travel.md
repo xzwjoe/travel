@@ -36,8 +36,10 @@
   - Milan central station → Firenze santa maria novella
   - **TODO** ITALO 10:40 - 12:35 65EUR
 - 景点/计划
-  - **[√]圣母百花大教堂(14:15-15:00)**
+  - **[√]圣母百花大教堂(14:15-15:00)** Cattedrale di Santa Maria del Fiore
   - 老桥，米开朗基罗广场(落日)
+    - 老桥 Ponte Vecchio
+    - 米开朗基罗广场 Piazzale Michelangelo (1.5km from 老桥)
 - 酒店
   - Grand Hotel Baglioni
 - Memo
@@ -51,8 +53,13 @@
   - Firenze santa maria novella → Milan central station
   - **TODO** ITALO 18:25 - 20:20 or 19:25 - 21:20 18EUR
 - 景点/计划
-  - **[√]乌菲兹美术馆（8:30-8:45）**
+  - **[√]乌菲兹美术馆（8:30-8:45）** Gallerie degli Uffizi
+    - Piazzale degli Uffizi, 6, 50122 Firenze FI, イタリア
   - 领主广场，旧宫，学院美术馆（14-17）
+    - 领主广场 Piazza della Signoria
+    - 旧宫 Palazzo Vecchio
+    - 学院美术馆 Galleria dell’Accademia di Firenze 
+      - https://www.galleriaaccademiafirenze.it/en/visit/
 - 酒店
   - Moxy Milan Malpensa Airport
 - Memo
@@ -65,6 +72,15 @@
   - 8:30 Malpensa (T2) EJU3925 → Tromso/Langes 12:35
 - 景点/计划
   - PM：北极大教堂，傍晚***缆车***上山观夜景，极光
+  - 北极大教堂 Arctic Cathedral
+    - <https://www.ishavskatedralen.no/en/the-arctic-cathedral/prices/>
+    - August 16 – Dec 31: 13:00-17:00 (Wed. 14:00-17:00)
+  - 缆车 fjellheisen  (夜间6点至凌晨2点之间 有机会看到神秘的北极光。)
+    - 地址: Solliveien 12, N-9020 Tromsdalen
+    - 巴士 (1 bus per Hour)
+      - <https://shuttle.fjellheisen.no/>
+    - 门票
+      - <https://book.fjellheisen.no/en/todo>
 - 酒店
   - airbnb
 
@@ -94,7 +110,13 @@
 
 ## 2024/12/28 Bergen Norway
 - 景点/计划
-  - 布吕根码头，·floyen山观景台缆车 city walk
+  - 布吕根码头，floyen山观景台缆车 city walk
+  - 布吕根码头 Bryggen
+    - Bryggen, 5003 Bergen, ノルウェー
+  - floyen山观景台缆车 Fløibanen - Funicular Railway
+    - Vetrlidsallmenningen 23A, 5014 Bergen, ノルウェー
+    - <https://floyen.no/en>
+  - 
 - 酒店
   - Magic Hotel & Apartments Kløverhuset
 
@@ -109,6 +131,11 @@
 # Iceland
 
 ## 2024/12/30 Reykjavik Iceland
+- 去机场巴士
+  - **只有这一班 下一班8:05**
+  - 06:05 Bergen Busstasjon → 06:30 Bergen lufthavn Flesland (25min)
+  - https://flybussen.no/en/trip
+  - 
 - 航班
   - 8:30 Bergen Airport,Flesland SK248 → Oslo 09:25
   - 12:20 Oslo Airport SK4787 → KEF Reykjavik Airport 14:20
@@ -174,8 +201,11 @@
 [航班詳細](./flight_list.md)  
 
 # TODO
+- 12/30
+  - 06:05 Bergen Busstasjon → 06:30 Bergen lufthavn Flesland (25min)
+  - https://flybussen.no/en/trip
 - ITALO
   - [ ] Milan central station → Firenze santa maria novella 10:40 - 12:35
   - [ ] Firenze santa maria novella → Milan central station 18:25 - 20:20 or 19:25 - 21:20
-  - [ ] 卑尔根 峡湾
-  - [ ] 圣家堂?
+- [ ] 卑尔根 峡湾
+- [ ] 圣家堂?
