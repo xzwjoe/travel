@@ -1,40 +1,46 @@
 - [Italy](#italy)
-  - [2024/12/22 Milan Italy](#20241222-milan-italy)
-  - [2024/12/23 Milan, Firenze Italy](#20241223-milan-firenze-italy)
-  - [2024/12/24 Firenze, Milan Italy](#20241224-firenze-milan-italy)
+  - [2024/12/22 米兰 Milan Italy](#20241222-米兰-milan-italy)
+  - [2024/12/23 米兰，佛罗伦萨 Milan, Firenze Italy](#20241223-米兰佛罗伦萨-milan-firenze-italy)
+  - [2024/12/24 佛罗伦萨 Firenze, Milan Italy](#20241224-佛罗伦萨-firenze-milan-italy)
 - [Norway](#norway)
-  - [2024/12/25 Tromso Norway](#20241225-tromso-norway)
-  - [2024/12/26 Tromso Norway](#20241226-tromso-norway)
-  - [2024/12/27 Tromso, Bergen Norway](#20241227-tromso-bergen-norway)
-  - [2024/12/28 Bergen Norway](#20241228-bergen-norway)
-  - [2024/12/29 Bergen Norway](#20241229-bergen-norway)
+  - [2024/12/25 特罗姆瑟 Tromso Norway](#20241225-特罗姆瑟-tromso-norway)
+  - [2024/12/26 特罗姆瑟 Tromso Norway](#20241226-特罗姆瑟-tromso-norway)
+  - [2024/12/27 特罗姆瑟 Tromso, Bergen Norway](#20241227-特罗姆瑟-tromso-bergen-norway)
+  - [2024/12/28 卑尔根 Bergen Norway](#20241228-卑尔根-bergen-norway)
+  - [2024/12/29 卑尔根 Bergen Norway](#20241229-卑尔根-bergen-norway)
 - [Iceland](#iceland)
-  - [2024/12/30 Reykjavik Iceland](#20241230-reykjavik-iceland)
-  - [2024/12/31 Reykjavik Iceland](#20241231-reykjavik-iceland)
-  - [2025/1/1 Reykjavik Iceland](#202511-reykjavik-iceland)
-  - [2025/1/2 Reykjavik Iceland](#202512-reykjavik-iceland)
-  - [2025/1/3 Reykjavik, Iceland](#202513-reykjavik-iceland)
-  - [2025/1/4 Reykjavik, Iceland](#202514-reykjavik-iceland)
-  - [2025/1/5 Reykjavik Iceland, Copenhagen](#202515-reykjavik-iceland-copenhagen)
+  - [2024/12/30 雷克雅未克 Reykjavik Iceland](#20241230-雷克雅未克-reykjavik-iceland)
+  - [2024/12/31 雷克雅未克 Reykjavik Iceland](#20241231-雷克雅未克-reykjavik-iceland)
+  - [2025/1/1 雷克雅未克 Reykjavik Iceland](#202511-雷克雅未克-reykjavik-iceland)
+  - [2025/1/2 冰岛南部 Reykjavik Iceland](#202512-冰岛南部-reykjavik-iceland)
+  - [2025/1/3 冰岛南部 Reykjavik, Iceland](#202513-冰岛南部-reykjavik-iceland)
+  - [2025/1/4 冰岛南部 Reykjavik, Iceland](#202514-冰岛南部-reykjavik-iceland)
+  - [2025/1/5 哥本哈根 飞机上 Reykjavik Iceland, Copenhagen](#202515-哥本哈根-飞机上-reykjavik-iceland-copenhagen)
 - [Italy2](#italy2)
-  - [2025/1/6 Milan Italy](#202516-milan-italy)
-  - [2025/1/7 Milan Italy](#202517-milan-italy)
-  - [2025/1/8 Milan Italy](#202518-milan-italy)
+  - [2025/1/6 米兰 Milan Italy](#202516-米兰-milan-italy)
+  - [2025/1/7 米兰 Milan Italy](#202517-米兰-milan-italy)
+  - [2025/1/8 回家 Milan Italy](#202518-回家-milan-italy)
 - [TODO](#todo)
 
 # Italy
 
-## 2024/12/22 Milan Italy
+## 2024/12/22 米兰 Milan Italy
 - 航班
   - 10:45 羽田(T3) LH715 → MUNICH(T2) 17:10
   - 18:15 MUNICH(T2) LH1858 → MILAN(MXP T1) 19:20
 - 酒店
   - Moxy Milan Malpensa Airport
+- Shuttle Bus
+  - Terminal 1: the shuttle bus stop is located in front of the Sheraton Hotel.
+  - Terminal 2: the shuttle stop for T1 is located near the Train Station.
+  - <https://www.milanomalpensa-airport.com/en/from-to/connections-with-terminals>
 
-## 2024/12/23 Milan, Firenze Italy
+## 2024/12/23 米兰，佛罗伦萨 Milan, Firenze Italy
 - 火车
+  - Airport T2 → Milan central station
+    - MALPENSA EXPRESS <https://www.malpensaexpress.it/>
   - Milan central station → Firenze santa maria novella
-  - **TODO** ITALO 10:40 - 12:35 65EUR
+    - **TODO** ITALO 10:40 - 12:35 65EUR
 - 景点/计划
   - **[√]圣母百花大教堂(14:15-15:00)** Cattedrale di Santa Maria del Fiore
   - 老桥，米开朗基罗广场(落日)
@@ -48,10 +54,11 @@
       - <https://autostradale.it/en-GB/bus-stop-timetable>
     - <https://www.malpensashuttle.it/en/index.html>
 
-## 2024/12/24 Firenze, Milan Italy
+## 2024/12/24 佛罗伦萨 Firenze, Milan Italy
+
 - 火车
   - Firenze santa maria novella → Milan central station
-  - **TODO** ITALO 18:25 - 20:20 or 19:25 - 21:20 18EUR
+    - **TODO** ITALO 18:25 - 20:20 or 19:25 - 21:20 18EUR
 - 景点/计划
   - **[√]乌菲兹美术馆（8:30-8:45）** Gallerie degli Uffizi
     - Piazzale degli Uffizi, 6, 50122 Firenze FI, イタリア
@@ -67,7 +74,7 @@
 
 # Norway
 
-## 2024/12/25 Tromso Norway
+## 2024/12/25 特罗姆瑟 Tromso Norway
 - 航班
   - 8:30 Malpensa (T2) EJU3925 → Tromso/Langes 12:35
 - 景点/计划
@@ -84,7 +91,7 @@
 - 酒店
   - airbnb
 
-## 2024/12/26 Tromso Norway
+## 2024/12/26 特罗姆瑟 Tromso Norway
 - 景点/计划
   - 最北麦当劳?
     - Address: **#TODO**
@@ -96,7 +103,7 @@
 - 酒店
   - airbnb
 
-## 2024/12/27 Tromso, Bergen Norway
+## 2024/12/27 特罗姆瑟 Tromso, Bergen Norway
 - 航班
   - 20:00 TOS WF629 → BGO 22:05
 - 景点/计划
@@ -108,7 +115,7 @@
 - 酒店
   - Comfort Hotel Bergen Airport
 
-## 2024/12/28 Bergen Norway
+## 2024/12/28 卑尔根 Bergen Norway
 - 景点/计划
   - 布吕根码头，floyen山观景台缆车 city walk
   - 布吕根码头 Bryggen
@@ -120,7 +127,7 @@
 - 酒店
   - Magic Hotel & Apartments Kløverhuset
 
-## 2024/12/29 Bergen Norway
+## 2024/12/29 卑尔根 Bergen Norway
 - 景点/计划
   - 峡湾 （挪威缩影）
   - (**未**) Fjord cruise from Bergen through Mostraumen - Rødne Fjord Cruise (rodne.no)
@@ -130,7 +137,7 @@
 
 # Iceland
 
-## 2024/12/30 Reykjavik Iceland
+## 2024/12/30 雷克雅未克 Reykjavik Iceland
 - 去机场巴士
   - **只有这一班 下一班8:05**
   - 06:05 Bergen Busstasjon → 06:30 Bergen lufthavn Flesland (25min)
@@ -143,17 +150,17 @@
 - 酒店
   - Downtown Guesthouse Reykjavik
 
-## 2024/12/31 Reykjavik Iceland
+## 2024/12/31 雷克雅未克 Reykjavik Iceland
 - 景点/计划
 - 酒店
   - Downtown Guesthouse Reykjavik
 
-## 2025/1/1 Reykjavik Iceland
+## 2025/1/1 雷克雅未克 Reykjavik Iceland
 - 景点/计划
 - 酒店
   - 酒店 Frón
 
-## 2025/1/2 Reykjavik Iceland
+## 2025/1/2 冰岛南部 Reykjavik Iceland
 - 景点/计划
   - **冰岛团8:30~9:00集合**
     - <https://www.tripadvisor.jp/AttractionProductReview-g189970-d12924614-3_Day_Golden_Circle_Ice_Cave_Glacier_Lagoon_Waterfalls_Tour-Reykjavik_Capital_Regi.html>
@@ -166,12 +173,12 @@
     - Contact
       - 連絡先情報 Nicetravel ehf +3544190100
 
-## 2025/1/3 Reykjavik, Iceland
-## 2025/1/4 Reykjavik, Iceland
+## 2025/1/3 冰岛南部 Reykjavik, Iceland
+## 2025/1/4 冰岛南部 Reykjavik, Iceland
 - 酒店
   - 酒店 Reykjavik Centrum
 
-## 2025/1/5 Reykjavik Iceland, Copenhagen 
+## 2025/1/5 哥本哈根 飞机上 Reykjavik Iceland, Copenhagen 
 - 航班
   - 11:50 Reykjavik KEF SK4788 → Oslo Gardermoen 15:30
   - 16:10 Oslo Gardermoen SK 459 - Copenhagen Kastrup 17:25
@@ -179,19 +186,19 @@
   - Clarion Hotel Copenhagen Airport
 
 # Italy2
-## 2025/1/6 Milan Italy
+## 2025/1/6 米兰 Milan Italy
 - 航班
   - 10:20 CPH-KASTRUP AIRPORT (T2) U23924 → MXP-MALPENSA AIRPORT (T2) 12:35
 - 酒店
   - Moxy Milan Malpensa Airport
   
-## 2025/1/7 Milan Italy
+## 2025/1/7 米兰 Milan Italy
 - 景点/计划
   - **圣家堂?**
 - 酒店
   - Moxy Milan Malpensa Airport
 
-## 2025/1/8 Milan Italy
+## 2025/1/8 回家 Milan Italy
 - 航班
   - 09:50 MILAN(MXP T1) LX1613 → ZURICH 10:55
   - 13:05 ZURICH LX160 → NARITA(T1) 1/9 10:10
