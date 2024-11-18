@@ -34,6 +34,9 @@
   - Terminal 1: the shuttle bus stop is located in front of the Sheraton Hotel.
   - Terminal 2: the shuttle stop for T1 is located near the Train Station.
   - <https://www.milanomalpensa-airport.com/en/from-to/connections-with-terminals>
+- 寄存
+  - Left Luggage: Located next to Exit 5 in Terminal 1's Arrival Hall
+  -  7 AM – 9 PM
 
 ## 2024/12/23 米兰，佛罗伦萨 Milan, Firenze Italy
 - 火车
