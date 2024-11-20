@@ -29,7 +29,7 @@
   - 10:45 羽田(T3) LH715 → MUNICH(T2) 17:10
   - 18:15 MUNICH(T2) LH1858 → MILAN(MXP T1) 19:20
 - 酒店
-  - Moxy Milan Malpensa Airport
+  - Moxy Milan Malpensa Airport (T2)
 - Shuttle Bus
   - Terminal 1: the shuttle bus stop is located in front of the Sheraton Hotel.
   - Terminal 2: the shuttle stop for T1 is located near the Train Station.
@@ -70,6 +70,7 @@
     - 旧宫 Palazzo Vecchio
     - 学院美术馆 Galleria dell’Accademia di Firenze 
       - https://www.galleriaaccademiafirenze.it/en/visit/
+  - 剪标店
 - 酒店
   - Moxy Milan Malpensa Airport
 - Memo
@@ -92,7 +93,7 @@
     - 门票
       - <https://book.fjellheisen.no/en/todo>
 - 酒店
-  - airbnb
+  - Restaurant Smak AS付近
 
 ## 2024/12/26 特罗姆瑟 Tromso Norway
 - 景点/计划
@@ -104,7 +105,7 @@
       - Tromsø Havn Prostnesetのメインエントランスホール内
       - <https://www.google.com/maps/dir//69.64723,18.959833/@69.6471523,18.7950324,11z?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D>
 - 酒店
-  - airbnb
+  - Restaurant Smak AS付近
 
 ## 2024/12/27 特罗姆瑟 Tromso, Bergen Norway
 - 航班
