@@ -150,6 +150,8 @@
 - 航班
   - 8:30 Bergen Airport,Flesland SK248 → Oslo 09:25
   - 12:20 Oslo Airport SK4787 → KEF Reykjavik Airport 14:20
+- 机场去市区巴士
+  - flybus 30刀 45min+
 - 景点/计划
 - 酒店
   - Downtown Guesthouse Reykjavik
