@@ -46,6 +46,9 @@
     - **TODO** ITALO 10:40 - 12:35 65EUR
 - 景点/计划
   - **[√]圣母百花大教堂(14:15-15:00)** Cattedrale di Santa Maria del Fiore
+    - Entry to Brunelleschi's Dome from Porta della Mandorla (North side of the Cathedral). 
+    - Visitors are required to climb 463 step
+    - ![alt text](./image/Brunelleschi.jpg)
   - 老桥，米开朗基罗广场(落日)
     - 老桥 Ponte Vecchio
     - 米开朗基罗广场 Piazzale Michelangelo (1.5km from 老桥)
@@ -81,6 +84,11 @@
 ## 2024/12/25 特罗姆瑟 Tromso Norway
 - 航班
   - 8:30 Malpensa (T2) EJU3925 → Tromso/Langes 12:35
+- 交通APP
+  - Svipper
+  - Bus: No.42 go to Kræmer, Tromsø
+  - <https://svipper.no/?sprak=3>
+  - 机场坐bus位置: K Parking
 - 景点/计划
   - PM：北极大教堂，傍晚***缆车***上山观夜景，极光
   - 北极大教堂 Arctic Cathedral
