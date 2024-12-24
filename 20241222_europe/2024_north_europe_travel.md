@@ -128,6 +128,8 @@
   - Comfort Hotel Bergen Airport
 
 ## 2024/12/28 卑尔根 Bergen Norway
+- 去市区
+  - VY
 - 景点/计划
   - 布吕根码头，floyen山观景台缆车 city walk
   - 布吕根码头 Bryggen
@@ -154,7 +156,7 @@
   - **只有这一班 下一班8:05**
   - 06:05 Bergen Busstasjon → 06:30 Bergen lufthavn Flesland (25min)
   - https://flybussen.no/en/trip
-  - 
+  - VY也可以47NOK 5:44首班车 45min
 - 航班
   - 8:30 Bergen Airport,Flesland SK248 → Oslo 09:25
   - 12:20 Oslo Airport SK4787 → KEF Reykjavik Airport 14:20
