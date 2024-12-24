@@ -113,7 +113,7 @@
       - Tromsø Havn Prostnesetのメインエントランスホール内
       - <https://www.google.com/maps/dir//69.64723,18.959833/@69.6471523,18.7950324,11z?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D>
 - 酒店
-  - Restaurant Smak AS付近
+  - Alfons veg 30，9010 Tromso
 
 ## 2024/12/27 特罗姆瑟 Tromso, Bergen Norway
 - 航班
