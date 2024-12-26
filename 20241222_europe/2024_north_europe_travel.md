@@ -144,8 +144,10 @@
 ## 2024/12/29 卑尔根 Bergen Norway
 - 景点/计划
   - 峡湾 （挪威缩影）
-  - (**未**) Fjord cruise from Bergen through Mostraumen - Rødne Fjord Cruise (rodne.no)
+  - Fjord cruise from Bergen through Mostraumen - Rødne Fjord Cruise (rodne.no)
     - <https://rodne.no/en/fjord-experiences/bergen/fjordcruise-mostraumen/>
+    - Shetlands-larsens Brygge 5014, 5014 Bergen, Norge
+    - 10:00 - 13:30 （20分钟前集合
 - 酒店
   - Magic Hotel & Apartments Kløverhuset
 
